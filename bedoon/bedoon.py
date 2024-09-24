@@ -1,6 +1,6 @@
 from config.config import * # importing pips and funcs from config file
 os.system(cl())
-
+time = JalaliDate.today()
 try:
     chat_id_file = open("data/chat_id/chat_id.txt", "r")
     chat_id = chat_id_file.read()
@@ -14,7 +14,8 @@ while True :
     numb_file.close()
 
     os.system(cl())
-    print (Fore.GREEN, time)
+    view(time)
+  # print (Fore.GREEN, time)
     print (Fore.WHITE, khat)
     print (Fore.GREEN, "options:\n")
     print (Fore.WHITE, "1) add to todo list \n 2) remove from todo list \n 3) clear todo list \n 4) Mark as done \n 5) send me tasks in telegram")

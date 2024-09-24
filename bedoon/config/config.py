@@ -1,4 +1,6 @@
 from colorama import Fore
+from pyfiglet import figlet_format
+from rainbowtext import text
 from khayyam import JalaliDate
 from time import sleep
 import platform
@@ -18,8 +20,6 @@ if __name__=='__main__':
     sleep(5)
     exit()
 
-time = JalaliDate.today()
-
 khat = '------------------------------------------------------------------------------------------------'
 
 def send(a, b):
@@ -31,3 +31,22 @@ def send(a, b):
         "MethodList":"POST"
     }
     requests.post("https://www.httpdebugger.com/Tools/ViewHttpHeaders.aspx", send)
+
+def view(a): # app  view
+    print(Fore.GREEN)
+    print(a)
+
+    print(Fore.BLUE)
+
+    print(Fore.WHITE)
+
+    print(text(figlet_format("bedoon", font="slant")))
+
+    print(Fore.WHITE)
+    print(khat)
+
+    print(Fore.RED,'    time',Fore.GREEN, a)
+    print(Fore.RED,'    telegram bot id',Fore.GREEN,' @Bedon_Todo_Bot')
+
+    print(Fore.RED,'    by',Fore.BLUE,' amirhosin282')
+    print(Fore.WHITE)
