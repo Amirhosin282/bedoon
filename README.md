@@ -20,6 +20,6 @@ pip install pyfiglet
 source .venv/bin/activate
 ```
 
-## To run without problems:
+## To run without problem:
 
 in " bedoon/bedoon/data/ " create a " chat_id " folder
