@@ -35,6 +35,17 @@ source .venv/bin/activate  # Use virtual environment
 
 ---
 
+## 🌟 Future Possibilities (Planned)
+- 🌐 **Web Interface**: Browser-based dashboard
+- 📱 **Mobile App**: Android/iOS version
+- 🤖 **Enhanced Bot**: AI-powered suggestions
+- 🔄 **Sync Feature**: Cross-device synchronization
+- 📊 **Analytics**: Task completion statistics
+
+> Note: These are potential future developments and not guaranteed.
+
+---
+
 <div dir="rtl">
 
 # 🚀 بدون - مدیر کارها
@@ -68,6 +79,21 @@ source .venv/bin/activate  # استفاده از محیط مجازی
 2. شناسه چت خود را از [@RawDataBot] (https://t.me/RawDataBot) دریافت کنید
 3. وقتی از شما خواسته شد کد تأیید را وارد کنید
 
+
+
+## 🔮 برنامه‌های آینده (پیش‌بینی شده)
+- 🌐 **نسخه وب**: پنل مدیریت تحت مرورگر
+- 📱 **برنامه موبایل**: نسخه اندروید و iOS
+- 🤖 **ربات پیشرفته**: پیشنهادات هوشمند
+- 🔄 **همگام‌سازی**: بین چند دستگاه
+- 📊 **آمار**: گزارش عملکرد کاربر
+
+> توجه: این موارد صرفاً جهت اطلاع بوده و تضمینی برای پیاده‌سازی نیست.
+
+</div>
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer Wave">
 </div>
+
