@@ -1,4 +1,7 @@
 
+<div align="center">
+  <img src="https://github.com/Amirhosin282/bedoonmlogo.png?raw=true" width="100%" alt="Header Image">
+</div>
 # 🚀 Bedoon Todo Manager
 
 **A lightweight CLI task manager with Telegram integration**
