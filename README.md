@@ -37,7 +37,7 @@ source .venv/bin/activate  # Use virtual environment
 
 ## 🌟 Future Possibilities (Planned)
 - 🌐 **Web Interface**: Browser-based dashboard
-- 📱 **Mobile App**: Android/iOS version
+- 📱 **Mobile App**: Android version
 - 🤖 **Enhanced Bot**: AI-powered suggestions
 - 🔄 **Sync Feature**: Cross-device synchronization
 - 📊 **Analytics**: Task completion statistics
@@ -83,7 +83,7 @@ source .venv/bin/activate  # استفاده از محیط مجازی
 
 ## 🔮 برنامه‌های آینده (پیش‌بینی شده)
 - 🌐 **نسخه وب**: پنل مدیریت تحت مرورگر
-- 📱 **برنامه موبایل**: نسخه اندروید و iOS
+- 📱 **برنامه موبایل**: نسخه اندروید
 - 🤖 **ربات پیشرفته**: پیشنهادات هوشمند
 - 🔄 **همگام‌سازی**: بین چند دستگاه
 - 📊 **آمار**: گزارش عملکرد کاربر
