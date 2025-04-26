@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/Amirhosin282/bedoonmlogo.png?raw=true" width="100%" alt="Header Image">
+  <img src="https://github.com/Amirhosin282/bedoon/logo.png?raw=true" width="100%" alt="Header Image">
 </div>
 # 🚀 Bedoon Todo Manager
 
