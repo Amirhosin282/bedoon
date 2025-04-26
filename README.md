@@ -26,7 +26,6 @@ python bedoon.py
 ### Linux Users (Optional)
 ```bash
 source .venv/bin/activate  # Use virtual environment
-pip install -r requirements.txt
 ```
 
 ## 🤖 Telegram Setup
@@ -60,7 +59,6 @@ pip install -r requirements.txt
 ### کاربران لینوکس (اختیاری)
 ```bash
 source .venv/bin/activate  # استفاده از محیط مجازی
-pip install -r requirements.txt
 ```
 
 </div>
