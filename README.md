@@ -65,6 +65,11 @@ pip install -r requirements.txt
 
 </div>
 
+## 🤖 راه اندازی تلگرام
+1. با [@Bedon_Todo_Bot] گپ بزنید (https://t.me/Bedon_Todo_Bot)
+2. شناسه چت خود را از [@RawDataBot] (https://t.me/RawDataBot) دریافت کنید
+3. وقتی از شما خواسته شد کد تأیید را وارد کنید
 
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer Wave">
+</div>
