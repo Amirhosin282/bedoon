@@ -3,8 +3,9 @@
 </div>
 
 # 🚀 Bedoon Todo Manager
-> This project has both entertainment and educational purposes for the creator.
 **A lightweight CLI task manager with Telegram integration**
+<br>
+> This project has both entertainment and educational purposes for the creator.
 
 ```python
 # Quick Start
@@ -52,7 +53,7 @@ source .venv/bin/activate  # Use virtual environment
 # 🚀 بدون - مدیر کارها
 
 **برنامه مدیریت کارهای شخصی با رابط خط فرمان**
-
+<br>
 > این پروژه برای سازنده از جنبه تفریحی و اهداف آموزشی هم برخوردار است.
 ## ✨ ویژگی‌های اصلی
 - 📝 مدیریت کارها با دستورات ساده
