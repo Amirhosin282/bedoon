@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Bedoon Todo Manager
 
 **A lightweight CLI task manager with Telegram integration**
