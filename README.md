@@ -33,8 +33,6 @@ source .venv/bin/activate  # Use virtual environment
 2. Get your Chat ID from [@RawDataBot](https://t.me/RawDataBot)
 3. Enter verification code when prompted
 
----
-
 ## 🌟 Future Possibilities (Planned)
 - 🌐 **Web Interface**: Browser-based dashboard
 - 📱 **Mobile App**: Android version
