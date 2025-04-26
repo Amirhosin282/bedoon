@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Amirhosin282/bedoon/blob/master/logo's/bedoonRemovdBG.png?raw=true" width="100%" alt="Header Image">
+  <img src="https://github.com/Amirhosin282/bedoon/blob/master/logo's/bedoonRemovdBG.png?raw=true" width="50%" alt="Header Image">
 </div>
 
 # 🚀 Bedoon Todo Manager
