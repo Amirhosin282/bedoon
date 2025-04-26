@@ -1,4 +1,4 @@
-<img src="https://github.com/Amirhosin282/bedoon/blob/master/logo's/applogo.png?raw=true" width="100%" alt="Header Image" width="50" height="600">
+<img src="https://github.com/Amirhosin282/bedoon/blob/master/logo's/applogo.png?raw=true" width="100%" alt="Header Image" width="20" height="600">
 
 # 🚀 Bedoon Todo Manager
 
